@@ -1,0 +1,29 @@
+[[package]]
+category = "main"
+description = "Cross-platform colored terminal text."
+name = "colorama"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+version = "0.4.3"
+
+[[package]]
+category = "main"
+description = "Pretty tables in the terminal"
+name = "termtables"
+optional = false
+python-versions = ">=3.5"
+version = "0.2.2"
+
+[metadata]
+content-hash = "d1bba988f419e8d3445feb538a88b8db0e8b7503a69835256fbf1c68964e632c"
+python-versions = "^3.8"
+
+[metadata.files]
+colorama = [
+    {file = "colorama-0.4.3-py2.py3-none-any.whl", hash = "sha256:7d73d2a99753107a36ac6b455ee49046802e59d9d076ef8e47b61499fa29afff"},
+    {file = "colorama-0.4.3.tar.gz", hash = "sha256:e96da0d330793e2cb9485e9ddfd918d456036c7149416295932478192f4436a1"},
+]
+termtables = [
+    {file = "termtables-0.2.2-py3-none-any.whl", hash = "sha256:6a11e99b8a9fc877b2be7fcfc9a125eefdb8b591ca2bab83970f67a67c8a0918"},
+    {file = "termtables-0.2.2.tar.gz", hash = "sha256:0cccd5555879d67f3d60d886093792a749c87e7946d77cbd87f9e64b17801bf5"},
+]

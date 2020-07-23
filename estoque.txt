@@ -1,0 +1,6 @@
+Esportivo, 33, Azul, 5, 99.80
+Caminhada, 38, Branca, 3, 150.79
+Tradicional, 35, Vermelha, 10, 170.50
+Corrida, 40, Preta, 1, 99.50
+Caminhada, 41, Vermelha, 11, 11.11
+Esportivo, 39, Branca, 5, 77.78
